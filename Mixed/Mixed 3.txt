@@ -1,0 +1,8 @@
+
+git checkout C1
+
+git cherry-pick C2
+
+git checkout main
+
+git cherry-pick C2' C3
