@@ -1,0 +1,14 @@
+
+git fetch
+
+git checkout main
+
+git branch -f main o/main
+
+git merge side1
+
+git merge side2
+
+git merge side3
+
+git push

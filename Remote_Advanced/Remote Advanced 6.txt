@@ -1,0 +1,8 @@
+
+git fetch origin main~:foo
+
+git fetch origin foo:main
+
+git checkout foo
+
+git merge main
