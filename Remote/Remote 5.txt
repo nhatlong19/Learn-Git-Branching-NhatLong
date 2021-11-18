@@ -1,0 +1,12 @@
+
+git clone
+
+git fakeTeamwork 2
+
+git pull
+
+git branch -f main C1
+
+git commit
+
+git merge C3
