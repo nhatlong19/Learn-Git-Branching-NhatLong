@@ -1,0 +1,6 @@
+
+git branch -f bugFix bugFix~3
+
+git checkout C1
+
+git branch -f main C6
